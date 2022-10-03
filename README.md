@@ -4,4 +4,4 @@ This repository contains differents types of codes associated a few computing to
 - Graph algorithm
 - Tree algorithm
 
-The main idea about this repository is centralize my current done work class of my college.
+The main idea about this repository is centralize my current done work class of my class.
